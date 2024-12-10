@@ -1,5 +1,5 @@
 function PoweredNumbersbyTwo(num) { 
-return math.pow(num,2)
+return Math.pow(num,2)
 
 }
 
